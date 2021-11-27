@@ -1,0 +1,20 @@
+
+body {
+  background-color: aquamarine;
+}
+
+hr {
+  border-color: forestgreen;
+  border-style: dotted;
+  border-top-style: none;
+  border-width: 5px;
+  width: 50%;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h3{
+  color: blue;
+}
